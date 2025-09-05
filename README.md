@@ -2,7 +2,12 @@
 A self-reflection app where students write future letters, receive support at key moments, and connect with campus resources.
 
 ## Prototype
-🔗 View our prototype here url: https://app.visily.ai/projects/64b8cad4-97eb-4b75-a478-201fdf755cc7/boards/2164536/presenter?play-mode=Prototype
+🔗 View our prototype here url:
+https://app.visily.ai/projects/64b8cad4-97eb-4b75-a478-201fdf755cc7/boards/2164536/presenter?play-mode=Prototype
+
+## 📄 Prototype PDF
+Download Prototype PDF:
+https://github.com/hueyzhi43/DearMe/blob/main/assets/DearMe%20Prototype.pdf
 
 ## 📖 Overview
 - Many students feel stressed or isolated between counselling sessions and need simple, private ways to reflect and stay encouraged.
