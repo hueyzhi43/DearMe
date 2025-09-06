@@ -1,10 +1,10 @@
 # DearMe
 A self-reflection app where students write future letters, receive support at key moments, and connect with campus resources.
 
-## Youtube
+## 🎞️ Youtube
 Youtube link: https://youtu.be/CeHrtupZEA8
 
-## Prototype
+## 🔗 Prototype
 🔗 View our prototype here url:
 https://app.visily.ai/projects/64b8cad4-97eb-4b75-a478-201fdf755cc7/boards/2164536/presenter?play-mode=Prototype
 
@@ -17,7 +17,11 @@ https://github.com/hueyzhi43/DearMe/blob/main/assets/DearMe%20Prototype.pdf
 - University students seeking mental health support tools that are safe, personal, and complementary to existing campus services.
 - Instead of a standard diary, the app delivers time-capsule encouragement: messages from your past self and supportive peer notes.
 - This creates a unique cycle of reflection, self-compassion, and community connection that strengthens existing mental health support systems.
-  
+
+## 📚 Student Lifestyle
+Track: Student Lifestyle
+Problem Solving: Mental health support app for students that lets you write letters to your future self
+
 ## ⚙️ Features
 - Feature 1: Future-Self Letters – Write supportive notes to your future self, with optional photo attachments.
 - Feature 2: Smart Scheduling – Deliver letters at chosen dates or during stressful periods, sealed until the right moment.
