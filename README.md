@@ -19,8 +19,8 @@ https://github.com/hueyzhi43/DearMe/blob/main/assets/DearMe%20Prototype.pdf
 - This creates a unique cycle of reflection, self-compassion, and community connection that strengthens existing mental health support systems.
 
 ## 📚 Student Lifestyle
-Track: Student Lifestyle
-Problem Solving: Mental health support app for students that lets you write letters to your future self
+- Track: Student Lifestyle
+- Problem Solving: Mental health support app for students that lets you write letters to your future self
 
 ## ⚙️ Features
 - Feature 1: Future-Self Letters – Write supportive notes to your future self, with optional photo attachments.
