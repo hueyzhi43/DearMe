@@ -29,7 +29,7 @@ https://github.com/hueyzhi43/DearMe/blob/main/assets/DearMe%20Prototype.pdf
 - Feature 4: Push Notifications – Get reminded when a letter arrives or when a peer boost is available.
 - Feature 5: Vault View – Browse scheduled, delivered, and draft letters with easy tag filters.
   
-## Team Code Newbie
+## Team Code Newbiee
 - How Huey Zhi
 - Charlotte Goh Xiao Ton
 - Cha Kit Teng
